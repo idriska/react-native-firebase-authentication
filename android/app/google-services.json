@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754568204076",
+    "project_id": "react-native-tutorial-b2a7d",
+    "storage_bucket": "react-native-tutorial-b2a7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754568204076:android:95669ba66533662ea1a689",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754568204076-v9bt2d2oi5irqttdkt3pmln6naolgmq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3AZKrNaVGtXOCprXcdrnfJd9aPT6MnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754568204076-v9bt2d2oi5irqttdkt3pmln6naolgmq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
